@@ -13,5 +13,5 @@ Run:
 Containerised:
 
     docker build --tag helloflask .
-    docker run --publish 8000:5000 helloflask
+    docker run --rm --publish 8000:5000 helloflask
     curl localhost:8000
