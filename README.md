@@ -1,6 +1,6 @@
 # Description
 
-Python helloworld web app using flask. Edited
+Python helloworld web app using flask.
 
 Reference: 
     <https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/>
